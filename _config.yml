@@ -5,33 +5,33 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Virginia Cooper # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Bilingual Full Stack Web Developer</h1>
+     <p>I'm a German to English translator and web developer currently based in the San Francisco Bay Area.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "vcooper2015@hotmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "vrcooper" 
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/coopervirginiawebdev"
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "http://stackexchange.com/users/5287763/virginia"
   steam:
   tumblr:
   twitter:
