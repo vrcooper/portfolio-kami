@@ -9,26 +9,38 @@ short-description: Build a production quality SaaS app that allows users to crea
 {:.center}
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
-## Explanation
+Summary:
+Build a production quality SaaS app that allows users to create their own wikis.
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Explanation:
+This was a second project where I had to implement many things which I had already learned in the foundation project, bloccit. I had to implement many of the concepts on my own this time
 
-## Problem
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Problem:
+As a user, I want to sign up for a free account by providing a user name, password and email
+As a user, I want to sign in and out of Blocipedia
+As a user with a standard account, I want to create, read, update, and delete public wikis
+As a developer, I want to offer three user roles: admin, standard, or premium
+As a developer, I want to seed the development database automatically with users and wikis
+As a user, I want to upgrade my account from a free to a paid plan
+As a premium user, I want to create private wikis
+As a user, I want to edit wikis using Markdown syntax
+As a premium user, I want to add and remove collaborators for my private wikis
 
-## Solution
+Solution:
+Many items were very similar to the foundation project, bloccit, so I was able to refer back to it.
+a.) User sign up  
+b.) user sign-in / sign-off  
+c.) wiki CRUD  
+d.) seed database
+e.) use Markdown syntax
+f.) create user roles
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+New challenges: 
+Create user roles and authorize with Pundit
+Upgrade account using Stripe
 
-## Results
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-## Conclusion
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Results:
+A working web application
+Conclusion:
+Continued to learn a lot about researching various solutions to problems on my own with less guidance.
