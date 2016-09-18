@@ -1,0 +1,12 @@
+---
+layout: post
+title: My developer goals
+---
+
+I initially started out my developer journey over two years ago by taking a Udacity web development course. Our project was to create a replica of the BBC online homepage. I had a lot of fun creating the various styles with HTML and CSS. The second part of the course began teaching JavaScript by creating a disappearing circles game. I wasn’t able to complete the course at the time, however, my curiosity about web development was piqued. I wanted to be able to create beautiful web pages with fancy drop down menus and other cool features which would hold the users attention. I decided to save up and apply to coding bootcamps. A little less than one year later, I chose an online bootcamp. I decided to learn the full stack even though I had no experience with backend languages and barely understood what the backend was. 
+
+I would like to one day build full stack web applications for a variety of industries and purposes, however, I am particularly interested in combining my background in foreign language education and translation with web development. I see great opportunity in creating online educational games for all levels of language learners. There are also many opportunities in the translation industry sector for web applications, such as project management portals for language service providers as well as web-based translation software tools for translators. 
+
+My goal after completing my online coding bootcamp is to either find an apprenticeship or a job as an entry level web developer. I’d like to take the knowledge I acquired and develop it further. I would like to work on team collaborations in the near future to gain experience working in teams and there are several apprenticeship programs with that goal in mind. I would also like to work with others and have immediate feedback. It has sometimes been extremely frustrating to have to wait several days for feedback. Working in a team would provide immediate peer support. The ultimate goal would be to not only complete my capstone projects by building out all functionalities but to one day become a senior web developer. 
+
+In short, I look forward to the day when I feel just as comfortable writing code and building apps as I am translating a legal document from German into English. It took me many years to gain mastery of a foreign language and it will also take time to master the core concepts of writing code. I aspire to not only become a senior developer but to also be able to teach web development. 
