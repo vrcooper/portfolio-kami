@@ -9,14 +9,17 @@ short-description: Build a production quality SaaS app that allows users to crea
 {:.center}
 ![]({{ site.baseurl }}/img/blocipedia.png)
 
-Summary:
+{:.center}
+<a class="button" href="https://vrcooper-blocipedia.herokuapp.com" target="_blank"><i class="fa fa-cloud"> Demo Site</i></a> <a class="button" href="https://github.com/vrcooper/Blocipedia" target="_blank"><i class="fa fa-fw fa-github"></i> Source Code</a>
+
+### Summary:
 Build a production quality SaaS app that allows users to create their own wikis.
 
-Explanation:
+### Explanation:
 This was a second project where I had to implement many things which I had already learned in the foundation project, bloccit. I had to implement many of the concepts on my own this time
 
 
-Problem:
+### Problem:
 As a user, I want to sign up for a free account by providing a user name, password and email
 As a user, I want to sign in and out of Blocipedia
 As a user with a standard account, I want to create, read, update, and delete public wikis
@@ -27,7 +30,7 @@ As a premium user, I want to create private wikis
 As a user, I want to edit wikis using Markdown syntax
 As a premium user, I want to add and remove collaborators for my private wikis
 
-Solution:
+### Solution:
 Many items were very similar to the foundation project, bloccit, so I was able to refer back to it.
 a.) User sign up  
 b.) user sign-in / sign-off  
@@ -40,7 +43,7 @@ New challenges:
 Create user roles and authorize with Pundit
 Upgrade account using Stripe
 
-Results:
+### Results:
 A working web application
 Conclusion:
 Continued to learn a lot about researching various solutions to problems on my own with less guidance.
