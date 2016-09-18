@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Bloc bootcamp experience
+title: My Bloc experience
 ---
 
 After conducting research on various coding bootcamps, I decided on Bloc's online full stack web developer bootcamp. The decision was primarily made due to costs and convenience. I work as a full time freelance translator, so it was very important to be able to work at my own pace. Many of the local San Francisco Bay Area bootcamps have day-long 40-hour per week formats and I simply could not afford to stop working full time. Bloc is not only one of the more flexible online bootcamps but it is also one of the more prestigious online bootcamps. I was fully convinced to join after interviewing a former Bloc bootcamp graduate who successfully found employment as a frontend developer. 
