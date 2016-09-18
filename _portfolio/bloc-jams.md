@@ -17,7 +17,8 @@ Bloc-Jams is a Spotify-inspired music player application built with jQuery and A
 
 ## Explanation:
 Bloc-Jams is the front-end foundation curriculum project which teaches the basics of front-end development using HTML, CSS, JavaScript, jQuery and AngularJS.
-Problem:
+
+## Problem:
 1. As a developer, I want to bootstrap Angular to my application.  
 2. As a developer, I want to configure routing and states for my application.  
 3. As a developer, I want to implement controllers for my application's views.   
